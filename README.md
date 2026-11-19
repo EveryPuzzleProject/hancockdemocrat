@@ -45,12 +45,17 @@ Probably the Western Newspaper Union's; not proven. No syndicate is named in the
 
 So the Democrat and the Journal and Guide carried the same series. That it is the Western
 Newspaper Union's rests on type and wording alone until the Democrat's pages for
-1925-01-15 to 03-28 are compared, or a page shows a title and the syndicate's name together.
+1925-01-15 to 03-28 are compared (there are none: see below), or a page shows a title and the syndicate's name together.
 
 ## What isn't known
 
 - **Proof of the owner**: a copy with both a title from this series and a syndicate line.
-- **How long it ran**, here or anywhere. Only the first six weeks are saved.
+- **How long it ran elsewhere.** In the Democrat, No. 6 of 1925-01-08 is the last: Alex
+  DeJarnatt found no later puzzle in a search of the paper (2026-11-19). So the six pages
+  saved are the Democrat's whole run as far as is known, and later numbers must come from
+  another paper. One is free at the Library of Congress: The Harlem News (Harlem, Montana)
+  printed "THE HEAVENLY STAIRWAY", No. 2 here, on 1924-12-12
+  (https://www.loc.gov/resource/sn86075250/1924-12-12/ed-1/?sp=9, read in the page text).
 - **Where the solutions are.** Each puzzle promises its solution "in next issue"; the pages
   saved are the puzzle pages, and the solutions have not been looked for.
 - **Whether other papers' puzzles are the same series.** The Afro-American of Baltimore
