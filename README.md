@@ -19,9 +19,23 @@ copyright line, and notes. Six pages so far, Nos. 1 to 6 (1924-12-04 to 1925-01-
 numbers and titles were read by OCR for this index and checked against the page for Nos. 1
 and 5 only.
 
+## Whose series it is
+
+Very likely the Western Newspaper Union's. No syndicate is named in the Democrat, but:
+
+- The Norfolk Journal and Guide printed "STEPPING STONES" (1925-01-31) and "THE FOUR ANGLES"
+  (1925-02-07), the titles of Nos. 1 and 3 here, with the same "(Copyright, 1924.)" line
+  ([journalandguide](https://github.com/EveryPuzzleProject/journalandguide)).
+- The Pittsburgh Courier's puzzles in the same type, from 1925-01-24, carry
+  "(© by Western Newspaper Union.)"
+  ([pittsburghcourier](https://github.com/EveryPuzzleProject/pittsburghcourier)).
+
+The titles match by name only so far; the grids haven't been compared, and no page yet shows
+a title and the syndicate's name together.
+
 ## What isn't known
 
-- **Whose series it is.** No syndicate is named near the puzzle.
+- **Proof of the owner**: a copy with both a title from this series and a syndicate line.
 - **How long it ran**, here or anywhere. Only the first six weeks are saved.
 - **Where the solutions are.** Each puzzle promises its solution "in next issue"; the pages
   saved are the puzzle pages, and the solutions have not been looked for.
