@@ -21,7 +21,7 @@ and 5 only.
 
 ## Whose series it is
 
-Very likely the Western Newspaper Union's. No syndicate is named in the Democrat, but:
+Probably the Western Newspaper Union's; not proven. No syndicate is named in the Democrat, but:
 
 - The Norfolk Journal and Guide printed "STEPPING STONES" (1925-01-31) and "THE FOUR ANGLES"
   (1925-02-07), the titles of Nos. 1 and 3 here, with the same "(Copyright, 1924.)" line
@@ -30,8 +30,22 @@ Very likely the Western Newspaper Union's. No syndicate is named in the Democrat
   "(© by Western Newspaper Union.)"
   ([pittsburghcourier](https://github.com/EveryPuzzleProject/pittsburghcourier)).
 
-The titles match by name only so far; the grids haven't been compared, and no page yet shows
-a title and the syndicate's name together.
+**Grids compared, 2026-11-19** (black-square patterns read by xword-ocr's grid finder):
+
+- No. 3 here and the Journal and Guide's "THE FOUR ANGLES" are the same grid (4 of 169
+  squares read differently, which is reading noise).
+- No. 1 here and the Journal and Guide's "STEPPING STONES" agree in the lower half and
+  differ in 11 of 121 squares, all in the upper half, where this paper's scan is faint.
+  Probably the same grid; not proven by this reading.
+- None of the Courier's Western Newspaper Union grids (its Nos. 2 and 4 to 9, 1925-01-24 to
+  03-14) matches Nos. 1 to 4 or 6 here, and none of the Afro-American's six copyrighted
+  grids (1925-02-21 to 03-28) does either. That neither confirms nor rules out one series:
+  if the papers ran it in step, those weeks would be this series' Nos. 8 to 17, and only
+  Nos. 1 to 6 are saved here. (No. 5 here was not found by the grid finder.)
+
+So the Democrat and the Journal and Guide carried the same series. That it is the Western
+Newspaper Union's rests on type and wording alone until the Democrat's pages for
+1925-01-15 to 03-28 are compared, or a page shows a title and the syndicate's name together.
 
 ## What isn't known
 
